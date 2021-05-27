@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center"> -- 7.30 AM Batch</h1>
-<h1 align="center"> This is my 4th wedding anniversary. I am very lucy to have you in my life...i wish and we will have a great future ahead with happiness and weathlh.</h1>
+<h1 align="center"> This is my 4th wedding anniversary. I am very lucky to have you in my life...i wish and we will have a great future ahead with happiness and wealth.</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
